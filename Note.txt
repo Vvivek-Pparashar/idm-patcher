@@ -1,0 +1,10 @@
+Use "/S" switch if you want to patch in silent mode.
+
+
+For Example:
+
+"IDM 6.xx Patcher v1.2.exe" /S
+
+OR
+
+Start "" "IDM 6.xx Patcher v1.2.exe" /S
